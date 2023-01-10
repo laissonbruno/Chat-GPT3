@@ -1,3 +1,6 @@
+https://chat-gpt-3-laisson.vercel.app/
+
+
 # O que é o Chat-GPT3
 
 O Chat-GPT3 é um modelo de inteligência artificial (IA) criado para simular conversas humanas. Ele foi desenvolvido usando a tecnologia GPT-3 (Generative Pre-trained Transformer 3), que foi criada pela OpenAI. O GPT-3 é uma rede neural profunda que foi treinada com milhões de documentos de texto para aprender a gerar texto naturalmente.
